@@ -1,0 +1,8 @@
+drop_py
+picture
+*.iml
+*.pyc
+__pycache__
+.idea
+*.iml
+*.pyc
