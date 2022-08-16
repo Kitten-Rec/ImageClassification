@@ -3,9 +3,9 @@ import sys
 import tensorflow as tf
 import os
 
-from Models.ResNeSt.ResNeSt import resnest50
-from Models.ShuffleNet.ShuffleNetV1 import ShuffleNetV1
-from Models.ShuffleNet.ShuffleNetV2 import ShuffleNetV2
+from models.ResNeSt.ResNeSt import resnest50
+from models.ShuffleNet.ShuffleNetV1 import ShuffleNetV1
+from models.ShuffleNet.ShuffleNetV2 import ShuffleNetV2
 
 rootPath = "/home/PyProject/algorithmlib"
 sys.path.append(rootPath)

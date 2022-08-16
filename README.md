@@ -1,7 +1,7 @@
 # Image-classification [基于keras实现]
  
 ## 目录结构
-- Models：存放各图像分类backbone的代码
+- models：存放各图像分类backbone的代码
 - layers：Models中可能会共同调用的一些组件
 - Test
   - data_set：5种花分类测试数据集
@@ -26,3 +26,5 @@
 note: 模型基本上都是采用继承子类模型的方式
 
 持续更新中···
+
+email: kitten_rec@163.com
