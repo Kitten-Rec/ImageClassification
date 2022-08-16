@@ -2,7 +2,7 @@
  
 ## 目录结构
 - models：存放各图像分类backbone的代码
-- layers：Models中可能会共同调用的一些组件
+- layers：models中可能会共同调用的一些组件
 - Test
   - data_set：5种花分类测试数据集
     - dateset_after_split: 切分后的数据集
